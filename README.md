@@ -1,2 +1,2 @@
 # hello_world
-Primeiro projeto
+Primeiro repositorio
